@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testing_cv.iml" filepath="$PROJECT_DIR$/.idea/modules/testing_cv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing_cv.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing_cv.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing_cv.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing_cv.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing_cv.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing_cv.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/testing_cv.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/testing_cv.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.main.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary343/testing_cv.openCVLibrary343.unitTest.iml" />
+    </modules>
+  </component>
+</project>

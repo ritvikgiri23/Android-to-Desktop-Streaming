@@ -1,0 +1,26 @@
+body{
+    position: relative; 
+    z-index: 1; 
+    width: 100vw; 
+    height: 100vh; 
+    padding: 0; 
+    overflow: hidden;
+    font-family: 'SF Pro Display';
+    background-color: #ECE8F5;
+    min-height: 100%;
+    font-family: SF Pro Display;
+  }
+  
+  #companyLogo{
+    margin-top: 2%;
+    margin-left: 2%;
+    width: 12%;
+  }
+
+  #cameraView{
+    width: 50%;
+    border-radius: 10px;
+    position: absolute;
+    left: 25%;
+    top: 15%;
+  }

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+<body>
+  <div class="container">
+    <div class="details">
+      <p class="heading">IP Address</p>
+      <p class="subHeading">{{ipAdd}}</p>
+      <p *ngIf="notValidIPFormat" class="invalid">Not connected to local network.</p>
+      <p class="heading">Port</p>
+      <p class="subHeading">{{port}}</p>
+      <p *ngIf="notValidPortFormat" class="invalid">Port Error.</p>
+    </div>
+
+    <div *ngIf="!streamStarted && (notValidIPFormat || notValidPortFormat)" class="statusConnection">
+      <img src="../../../assets/icons/warning.png" id="check">
+      <p class="titleWaiting">Server Not Started!</p>
+    </div>
+    
+    <div *ngIf="!streamStarted && !notValidIPFormat && !notValidPortFormat" class="statusConnection">
+      <img src="../../../assets/icons/refresh.png" id="rotate">
+      <p class="titleWaiting">Waiting for Mobile stream to start</p>
+    </div>
+
+    <div *ngIf="streamStarted && !notValidIPFormat && !notValidPortFormat" class="statusConnection">
+      <img src="../../../assets/icons/check.png" id="check">
+      <p class="titleConnected">Succesfully Connected!</p>
+    </div>
+  </div>
+</body>
