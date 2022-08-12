@@ -10,12 +10,6 @@ body{
     min-height: 100%;
     font-family: SF Pro Display;
   }
-  
-  #companyLogo{
-    margin-top: 2%;
-    margin-left: 2%;
-    width: 12%;
-  }
 
   #cameraView{
     width: 50%;
