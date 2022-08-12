@@ -13,11 +13,6 @@ body{
   min-height: 100%;
 }
 
-#companyLogo{
-  margin-top: 2%;
-  width: 60%;
-}
-
 .container{
   flex-direction: column;
   background:rgba(255, 255, 255, 0.5);
