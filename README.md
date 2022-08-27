@@ -7,14 +7,6 @@ A video streaming application from your mobile phone to your pc.
 
 ![App Screenshot](https://github.com/ritvikgiri23/Android-to-Desktop-Streaming/blob/main/Screenshot_2022-08-12-16-10-52-75_e8502939cc405e3f2b087e0ef016fb47.jpg)
 
-
-
-
-![App Screenshot](https://github.com/ritvikgiri23/Android-to-Desktop-Streaming/blob/main/Screenshot_2022-08-12-16-11-31-41_e8502939cc405e3f2b087e0ef016fb47.jpg)
-
-
-
-
 ![App Screenshot](https://github.com/ritvikgiri23/Android-to-Desktop-Streaming/blob/main/Screenshot_2022-08-12-16-37-20-90_e8502939cc405e3f2b087e0ef016fb47.jpg)
 
 
